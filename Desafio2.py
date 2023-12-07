@@ -1,3 +1,4 @@
+## num
 numero = int(input("Numero desejado: "))
 
 ultimo_numero = 1
